@@ -7,5 +7,9 @@ usefull rust resources link:
   [official rust site ]
   
   * https://www.rust-lang.org/
+ 	
+ 	[Rust tutorial ]
+  
+  * http://stevedonovan.github.io/rust-gentle-intro/readme.html
 
   
