@@ -14,6 +14,6 @@ usefull rust resources link:
     
     [playgroud/IDE for Rust  ]
   
-  *https://play.rust-lang.org/
+  * https://play.rust-lang.org/
 
   
