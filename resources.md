@@ -11,5 +11,9 @@ usefull rust resources link:
  	[Rust tutorial ]
   
   * http://stevedonovan.github.io/rust-gentle-intro/readme.html
+    
+    [playgroud/IDE for Rust  ]
+  
+  *https://play.rust-lang.org/
 
   
