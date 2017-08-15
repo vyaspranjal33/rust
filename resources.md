@@ -15,5 +15,9 @@ usefull rust resources link:
     [playgroud/IDE for Rust  ]
   
   * https://play.rust-lang.org/
+  
+    [Rust tutorial by derek banas]
+  
+  * http://www.newthinktank.com/2016/04/rust-tutorial/
 
   
