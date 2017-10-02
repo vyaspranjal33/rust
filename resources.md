@@ -19,5 +19,9 @@ usefull rust resources link:
     [Rust tutorial by derek banas]
   
   * http://www.newthinktank.com/2016/04/rust-tutorial/
+  
+     [into_rust():screencasts for learning Rust lang]
+  
+  * http://http://intorust.com/
 
   
