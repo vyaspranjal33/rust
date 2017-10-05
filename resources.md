@@ -23,5 +23,9 @@ usefull rust resources link:
      [into_rust():screencasts for learning Rust lang]
   
   * http://http://intorust.com/
+  
+  [learn Rust in y minutes]
+  
+  * https://learnxinyminutes.com/docs/rust/
 
   
