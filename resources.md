@@ -27,5 +27,9 @@ usefull rust resources link:
   [learn Rust in y minutes]
   
   * https://learnxinyminutes.com/docs/rust/
+  
+  [Introduction to Rust programming language by Alex Crichton]
+  
+  *https://www.youtube.com/watch?v=agzf6ftEsLU
 
   
