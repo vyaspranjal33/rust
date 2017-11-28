@@ -32,4 +32,9 @@ usefull rust resources link:
   
   *https://www.youtube.com/watch?v=agzf6ftEsLU
 
+  [Rust the basics by Nikolas vyahi]
+  
+  *https://stepik.org/lesson/9268/step/1
+  
+  
   
