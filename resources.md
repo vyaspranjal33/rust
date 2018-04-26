@@ -36,5 +36,13 @@ usefull rust resources link:
   
   *https://stepik.org/lesson/9268/step/1
   
+  [Rust memory safety revolution]
+  
+  *https://anixe.pl/content/news/rust_memory_safety_revolution
+  
+  [Rust Via Its Core Values]
+  
+  *http://designisrefactoring.com/2016/04/01/rust-via-its-core-values/
+  
   
   
