@@ -3,6 +3,8 @@
 [rust course](http://cis198-2016s.github.io/)
 
 [Rust Programming for Beginners From Udemy](https://www.udemy.com/rust-programming-for-beginners/)
+
+[Beginner Bites: A taste of Rust](https://hackernoon.com/a-taste-of-rust-6d8fc60e050)
   
 [official rust site](https://www.rust-lang.org/)
  	
