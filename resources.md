@@ -1,6 +1,8 @@
 # Rust Resources
 
 [rust course](http://cis198-2016s.github.io/)
+
+[Rust Programming for Beginners From Udemy](https://www.udemy.com/rust-programming-for-beginners/)
   
 [official rust site](https://www.rust-lang.org/)
  	
