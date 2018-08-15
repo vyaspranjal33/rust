@@ -27,7 +27,7 @@
 [Rust Via Its Core Values](http://designisrefactoring.com/2016/04/01/rust-via-its-core-values/)
   
 [Introduction to Rust](https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
-  
-  
+
+[Swift guide to Rust](http://faq.sealedabstract.com/rust/)
   
   
