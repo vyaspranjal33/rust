@@ -15,6 +15,8 @@
 [Rust tutorial by derek banas](http://www.newthinktank.com/2016/04/rust-tutorial/) 
 
 [into_rust():screencasts for learning Rust lang](http://intorust.com/)
+
+[newrustacean:Podcast for learning rust](https://newrustacean.com/)
   
 [learn Rust in y minutes](https://learnxinyminutes.com/docs/rust/)
 
