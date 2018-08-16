@@ -31,5 +31,7 @@
 [Introduction to Rust](https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
 
 [Swift guide to Rust](http://faq.sealedabstract.com/rust/)
+
+[Rust 101](https://www.ralfj.de/projects/rust-101/main.html)
   
   
