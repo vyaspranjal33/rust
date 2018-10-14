@@ -33,5 +33,7 @@
 [Swift guide to Rust](http://faq.sealedabstract.com/rust/)
 
 [Rust 101](https://www.ralfj.de/projects/rust-101/main.html)
+
+[Everything you need to know to get started with Rust](https://www.digit.in/software/learn-rust-tutorial-rust-basics-28507.html)
   
   
