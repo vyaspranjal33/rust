@@ -1,3 +1,4 @@
+// errors2.rs
 // Say we're writing a game where you can buy items with tokens. All items cost
 // 5 tokens, and whenever you purchase items there is a processing fee of 1
 // token. A player of the game will type in how many items they want to buy,
@@ -65,7 +66,7 @@ mod tests {
 // One way to handle this is using a `match` statement on
 // `item_quantity.parse::<i32>()` where the cases are `Ok(something)` and
 // `Err(something)`. This pattern is very common in Rust, though, so there's
-// a `try!` macro that does pretty much what you would make that match statement
+// a `?` operator that does pretty much what you would make that match statement
 // do for you! Take a look at this section of the Error Handling chapter:
-// https://doc.rust-lang.org/stable/book/error-handling.html#the-try-macro
-// and give it a `try!`
+// https://doc.rust-lang.org/stable/book/second-edition/ch09-02-recoverable-errors-with-result.html#a-shortcut-for-propagating-errors-the--operator
+// and give it a try!

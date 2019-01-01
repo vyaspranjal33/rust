@@ -1,5 +1,6 @@
+// errorsn.rs
 // This is a bigger error exercise than the previous ones!
-// You can do it!
+// You can do it! :)
 //
 // Edit the `read_and_validate` function so that it compiles and
 // passes the tests... so many things could go wrong!
@@ -114,21 +115,21 @@ impl error::Error for CreationError {
 
 // Next hint: There are three places in `read_and_validate` that we call a
 // function that returns a `Result` (that is, the functions might fail).
-// Wrap those calls in a `try!` macro call so that we return immediately from
+// Apply the `?` operator on those calls so that we return immediately from
 // `read_and_validate` if those function calls fail.
 
-// Another hint: under the hood, the `try!` macro calls `From::from`
+// Another hint: under the hood, the `?` operator calls `From::from`
 // on the error value to convert it to a boxed trait object, a Box<error::Error>,
 // which is polymorphic-- that means that lots of different kinds of errors
 // can be returned from the same function because all errors act the same
 // since they all implement the `error::Error` trait.
 // Check out this section of the book:
-// https://doc.rust-lang.org/stable/book/error-handling.html#standard-library-traits-used-for-error-handling
+// https://doc.rust-lang.org/stable/book/second-edition/ch09-02-recoverable-errors-with-result.html#a-shortcut-for-propagating-errors-the--operator
 
-// Another another hint: Note that because the `try!` macro returns
+// Another another hint: Note that because the `?` operator returns
 // the *unwrapped* value in the `Ok` case, if we want to return a `Result` from
 // `read_and_validate` for *its* success case, we'll have to rewrap a value
-// that we got from the return value of a `try!` call in an `Ok`-- this will
+// that we got from the return value of a `?`ed call in an `Ok`-- this will
 // look like `Ok(something)`.
 
 // Another another another hint: `Result`s must be "used", that is, you'll

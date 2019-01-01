@@ -1,3 +1,4 @@
+// iterator3.rs
 // This is a bigger exercise than most of the others! You can do it!
 // Here is your mission, should you choose to accept it:
 // 1. Complete the divide function to get the first four tests to pass
@@ -113,7 +114,8 @@ mod tests {
 
 
 
-// Minor hint: In each of the two cases in the match in main, you can create x with either a 'turbofish' or by hinting the type of x to the compiler. You may try both.
+// Minor hint: In each of the two cases in the match in main, you can create x with either 
+// a 'turbofish' or by hinting the type of x to the compiler. You may try both.
 
 
 
@@ -141,4 +143,5 @@ mod tests {
 
 
 
-// Major hint: Have a look at the Iter trait and at the explanation of its collect function. Especially the part about Result is interesting.
+// Major hint: Have a look at the Iter trait and at the explanation of its collect function. 
+// Especially the part about Result is interesting.
