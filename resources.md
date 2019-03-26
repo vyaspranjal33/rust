@@ -35,5 +35,7 @@
 [Rust 101](https://www.ralfj.de/projects/rust-101/main.html)
 
 [Everything you need to know to get started with Rust](https://www.digit.in/software/learn-rust-tutorial-rust-basics-28507.html)
+
+[Why Learn rust {IBMs Blog article}](https://developer.ibm.com/articles/os-developers-know-rust/)
   
   
