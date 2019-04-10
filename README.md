@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/vyaspranjal33/images/master/rust.png"> 
+[![Sparkline](https://stars.medv.io/vyaspranjal33/rust.svg)](https://stars.medv.io/vyaspranjal33/rust)
 
 # Rust
 `Resources to Learn Rust`
