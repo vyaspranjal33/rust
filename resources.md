@@ -37,5 +37,7 @@
 [Everything you need to know to get started with Rust](https://www.digit.in/software/learn-rust-tutorial-rust-basics-28507.html)
 
 [Why Learn rust {IBMs Blog article}](https://developer.ibm.com/articles/os-developers-know-rust/)
+
+[How to learn Rust: A resources guide for developers](https://www.techrepublic.com/article/how-to-learn-rust-a-resources-guide-for-developers/)
   
   
